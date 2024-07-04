@@ -1,0 +1,32 @@
+/*********************/
+/*Derivacion Registro*/
+/*********************/
+
+#derivacion-registro{
+  padding: 0rem 0rem 4rem 0rem;
+  display: flex;
+  flex-direction: column;
+  justify-content:center;
+  align-items: center;
+  color: var(--color-white);
+  font-size: 0.8rem;
+  text-align: center;
+  grid-area: 3 / 2 / 4 / 3;
+}
+
+#link-derivacion-registro{
+  color: var(--color-link);
+  cursor: pointer;
+}
+
+@media screen and (min-width: 576px) and (max-width: 991px) {
+  #derivacion-registro{
+    grid-area: 4 / 2 / 5 / 3;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  #derivacion-registro{
+    grid-area: 3 / 3 / 4 / 4;
+  }
+}

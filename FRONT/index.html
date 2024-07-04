@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Veo veo</title>
+    <!--link rel="stylesheet" href="CSS/index/styles_desarrollo.css"-->
+    <link rel="stylesheet" href="CSS/index/styles.css">
+    <!--link rel="stylesheet" href="CSS/index/estilos.css"-->
+    <link rel="icon" type="image/x-icon" href="ASSETS/favicon/clapperboard.png">
+    <!--Metaetiquetas-->
+    <link rel="canonical" href="https://grupo-24.netlify.app/" />
+    <!--colocar direccion real cuando se haga el despliegue---->
+    <meta property="og:title" content="Veo Veo" />
+    <meta property="og:description" content="Veo Veo: Pagina web pensada para reproducir películas por stream."/>
+    <meta property="og:image" content="ASSETS/images/logo_veo_veo.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:url" content="https://grupo-24.netlify.app/" />
+  </head>
+  <body>
+    <header>
+        <h1 id="home">Veo veo</h1>
+    </header>
+    <main>
+      <section id="logo"><img src="ASSETS/images/logo_veo_veo.png" alt="logo veo veo"></section>
+      <!--*****************************-->
+      <!--section  "loading  "-->
+      <!--*****************************-->
+      <section id="loading">Cargando <span id="cargando1">.</span><span id="cargando2">.</span><span id="cargando3">.</span></section>
+      <!--*****************************-->
+      <!--       section "log in      "-->
+      <!--*****************************-->
+      <section id="formulario_login" class="noDisplay" >
+        <article id="fondo"><img src="ASSETS/svg/clapperboard.svg" alt="clappeboard"></article>
+        <article id="form-log-1">Usuario:</article>
+        <article id="form-log-2"><input type="text" placeholder="Usuario"></article>
+        <article id="form-log-3">Contraseña:</article>
+        <article id="form-log-4"><input type="text" placeholder="Contraseña"></article>
+        <article id="form-log-5"><input id="boton_iniciar_sesion" type="button" value="Iniciar Seción"></article>
+        <!--article id="form-log" >
+          <div id="form-log-1">Usuario:</div>
+          <div id="form-log-2"><input type="text" placeholder="Usuario"></div>
+          <div id="form-log-3">Contraseña:</div>
+          <div id="form-log-4"><input type="text" placeholder="Contraseña"></div>
+          <div id="form-log-5"><input id="boton_iniciar_sesion" type="button" value="Iniciar Seción"></div>
+        </!--article-->
+      </section>
+      <section id="derivacion-registro" class="noDisplay" ><p>¿Todavía no se ha registrado? Haga click <span id="link-derivacion-registro">aquí</span>.</p> </section>
+      <!--*****************************-->
+      <!--section "formulario-registro"-->
+      <!--*****************************-->
+      <section id="formulario-registro" class="noDisplay">
+        <article id="fondo-reg"><img src="ASSETS/svg/clapperboard.svg" alt="clappeboard"></article>
+        <article id="form-reg-1">Formulario de Registro:</article>
+        <article id="form-reg-2">
+          <form>
+            <div class="form-reg-div">
+              <label id="nameLastname_label" for="nameLastname">Ingrese su nombre y apellido:</label>
+              <input type="text" placeholder="Nombre y apellido" name="nameLastname" id="nameLastname">
+            </div>
+            <div class="form-reg-div">
+              <label id="password_label" for="password">Ingrese una Contraseña:</label>
+              <input type="password" name="password"  id="password" minlength="8"  placeholder="********">
+            </div>
+            <div class="form-reg-div">
+              <label id="password2_label" for="password2">Re-ingrese la Contraseña:</label>
+              <input type="password" name="password2"  id="password2" minlength="8" placeholder="********">
+            </div>
+            <div><input id="submit-form-reg" type="submit"></div>
+          </form>
+        </article>
+        <article id="form-reg-3">
+          <div>O regístrese con:</div>
+          <div>
+              <span><a href="https://mail.google.com/" target="_blank" rel="noopener noreferrer"><img src="ASSETS/svg/google.svg" alt="google" class="reg-img"></a></span>
+              <span><a href="https://www.facebook.com/" target="_blank" rel="noopener noreferrer"><img src="ASSETS/svg/facebook.svg" alt="facebook" class="reg-img"></a> </span>
+              <span><a href="https://www.icloud.com/" target="_blank" rel="noopener noreferrer"><img src="ASSETS/svg/apple-old.svg" alt="apple" class="reg-img"></a> </span>
+              <span><a href="https://login.microsoftonline.com/common/oauth2/authorize?client_id=69893ee3-dd10-4b1c-832d-4870354be3d8&redirect_uri=https%3A%2F%2Fwww.microsoft.com%2Frpsauth%2Fv2%2Faccount%2Faad%2Fsignincallback&response_type=code%20id_token&scope=openid%20profile&state=OpenIdConnect.AuthenticationProperties%3DjSRaJMI4Oyx_M7i1DDhSNdryt3iRq927pHyiFI06iMiCb32_yh0-6NeS_rr_luWq-wgLCuOapoV62iaxYUNquWjIaRvzQtAsvV82FBfArf-ThgrBaBtSyYZ4vgPARezw8ZXdxNSA0bkg5bkZQUyW2TOXcXPmKeORhSqX0GYbonKu4_UyX1ta1V05bm02NrOCWx8II-F1uyNXt8u2G3psH7mm8PY7SF48g-c-FFrOn-oHU0DekDTOh7WYOVr0T0Ar40A7Np9UGAQ2rHtfHIaVH4kDh08tuoAGhMF931mGqmaKRFkyl_8IXviWNPNdmYZZTe8IBAF17nOxkJO9NC52jwuiaSmVOP_vJX1g1xT48vbsue1VFOE9gfK61EQl-13ZLPp4njpCcBSPS__S9E1Ky3mzhEpT6MqvXmr2rR-QSdZvfmrU9XoC_cSfrCB_5R5nl0VrMEWsxc2W207XwuTGHhQ96r2NmOLLLfZpetmvGHxKVXc4wcYcnPbkyqj4aHtsm7lNpbpgFvAOUtTLP6gdJw&response_mode=form_post&nonce=638500111634065786.NmFjZDAxOTctMjk3My00ZDYzLTlmZDAtOTgzMTJmOWY4ZGExODJkYTA5NGItNGVjNC00ZjA2LWFmOWYtMjQ4YmYzYmIzOWIx&msaredir=1&lc=11274&x-client-SKU=ID_NET461&x-client-ver=5.5.0.0&sso_reload=true" target="_blank" rel="noopener noreferrer"><img src="ASSETS/svg/windows.svg" alt="microsoft" class="reg-img"></a></span>
+          </div>
+          </article>
+      </section>
+      <!--*****************************-->
+      <!--section    "inicio-sesion    "-->
+      <!--*****************************-->
+      <section id="inicio-sesion" class="noDisplay" >
+        <article id="avatar1" class="avatar">
+          <a href="pages/peliculas.html">
+            <div class="user-avatar"><img src="ASSETS/svg/user_blue.svg" alt="usuario-azul" class="img-user-avatar"></div>
+            <div class="user-name">Usuario 1</div>
+          </a>
+        </article>
+        <article id="avatar2" class="avatar">
+          <a href="pages/peliculas.html">
+            <div class="user-avatar"><img src="ASSETS/svg/user_pink.svg" alt="usuario-rosa" class="img-user-avatar"></div>
+            <div class="user-name">Usuario 2</div>
+          </a>
+        </article>
+        <article id="avatar3" class="avatar">
+          <a href="pages/peliculas.html">
+            <div class="user-avatar"><img src="ASSETS/svg/user_green.svg" alt="usuario-verde" class="img-user-avatar"></div>
+            <div class="user-name">Usuario 3</div>
+          </a>
+        </article>
+        <article id="avatar4" class="avatar">
+          <a href="pages/peliculas.html">
+            <div class="user-avatar"><img src="ASSETS/svg/user_orange.svg" alt="usuario-naranja" class="img-user-avatar"></div>
+            <div class="user-name">Usuario 4</div>
+          </a>
+        </article>
+        <article id="avatar5" class="avatar">
+          <a href="pages/peliculas.html">
+            <div class="user-avatar"><img src="ASSETS/svg/user_violet.svg" alt="usuario-violeta" class="img-user-avatar"></div>
+            <div class="user-name">Usuario 5</div>
+          </a>
+        </article>
+        <article id="avatar6" class="avatar">
+          <a href="pages/peliculas.html">
+            <div class="user-avatar"><img src="ASSETS/svg/agregar_usuario.svg" alt="usuario-nuevo" class="img-user-avatar"></div>
+            <div id="agregar-usuario" class="user-name">Agregar usuario</div>
+          </a>
+        </article>
+      </section>
+      <!--*****************************-->
+      <!--section  "felicitaciones  "-->
+      <!--*****************************-->
+      <section id="felicitaciones" class="noDisplay">
+        <article id="fondo-felicitaciones"><img src="ASSETS/svg/clapperboard.svg" alt="clappeboard"></article>
+        <article>
+          <div id="fel-1">¡¡¡Felicitaciones <span>Usuario</span>!!!</div>
+          <div id="fel-2">Se envió un correo de verificación a su casilla.</div>
+          <div id="fel-3">Para validar su cuenta tiene un período de 24 hs.</div>
+        </article>
+      </section>
+      <!--*****************************-->
+      <!--section  "inicio-sesion-new  "-->
+      <!--*****************************-->
+      <section id="inicio-sesion-new" class="noDisplay">
+        <article id="avatar1-new" class="avatar">
+          <a href="pages/peliculas.html">
+            <div class="user-avatar"><img src="ASSETS/svg/user_blue.svg" alt="usuario-azul" class="img-user-avatar"></div>
+            <div class="user-name">Usuario 1</div>
+          </a>
+        </article>
+        <article id="avatar-new" class="avatar">
+          <div class="user-avatar"><img src="ASSETS/svg/agregar_usuario.svg" alt="usuario-nuevo" class="img-user-avatar"></div>
+          <div id="agregar-usuario-new" class="user-name">Agregar usuario</div>
+        </article>
+      </section>
+    </main>
+    <aside>
+        <nav>
+        <ul id="menu">
+          <li><a href="#home" title="home"><img class="svg_menu" src="ASSETS/svg/home.svg" alt="home"></a></li>
+          <li><a href="pages/peliculas.html" title="Películas"><img class="svg_menu" src="ASSETS/svg/peliculas.svg" alt="Peliculas"></a></li>
+          <li><a href="pages/series.html" title="Series de TV"><img class="svg_menu" src="ASSETS/svg/series-TV.svg" alt="Series de TV"></a></li>
+          <li><a href="pages/contacto.html" title="Contacto"><img class="svg_menu" src="ASSETS/svg/contacto_preguntas.svg" alt="Contacto, consultas"></a></li>
+          <li><a href="pages/grupo_24.html" title="Grupo 24"><img class="svg_menu" src="ASSETS/svg/grupo_24.svg" alt="Grupo 24"></a></li>
+        </ul>
+      </nav>
+    </aside>
+    <footer>
+      <div>Hecho por <a id="g24" href="pages/grupo_24.html" target="_blank" rel="noopener noreferrer"> Grupo 24</a>. Todos los derechos Resevados</div>
+      <div>
+        <img class="img-footer" src="ASSETS/images/Buenos_Aires_Ciudad2.png" alt="Buenos_Aires_Ciudad">
+        <img class="img-footer" src="ASSETS/images/Agencia_de_aprendizaje.png" alt="Agencia_de_aprendizaje">
+        <img class="img-footer" src="ASSETS/images/logo_codo_a_codo.png" alt="logo_codo_a_codo">
+        <img class="img-footer" src="ASSETS/svg/nodejs.svg" alt="logo_nodeJS">
+        <img class="img-footer" src="ASSETS/svg/javascript.svg" alt="logo_javascript">
+      </div>
+    </footer>
+<script src="JS/indexJS.js" type="module"></script>
+  </body>
+</html>

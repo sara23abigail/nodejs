@@ -1,0 +1,40 @@
+/******************/
+/*      Logo      */
+/******************/
+
+#logo{
+  display: flex;
+  flex-direction: column;
+  justify-content:center;
+  align-items: center;
+  padding: 1rem;
+  grid-area: 1 / 2 / 2 / 3;
+  img{
+    height: 100%;
+    width: auto;
+  }
+
+}
+
+@media screen and (min-width: 576px) and (max-width: 991px) {
+  #logo{
+    display: block;
+    padding: 1rem 1.2rem 0rem 0rem;
+    grid-area: 1 / 4 / 2 / 5;
+    img{
+      height: auto;
+      width: 100%;
+    }
+  }
+}
+
+@media screen and (min-width: 992px) {
+  #logo{
+    padding: 1.5rem 0rem 0rem 1.5rem;
+    grid-area: 1 / 1 / 2 / 2;
+    img{
+      width: auto;
+      height: 15vh;
+    }
+  }
+}

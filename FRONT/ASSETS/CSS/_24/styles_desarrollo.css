@@ -1,0 +1,14 @@
+@import url(../a_variables.css);
+@import url(../b_resets.css);
+@import url(../c_hamburguer_menu.css);
+@import url(../e_main.css);
+@import url(../e_seccion0_loading.css);
+@import url(../e_seccion1_logo.css);
+@import url(../_24/e_24.css);
+@import url(../f_footer.css);
+@import url(../k_nodisplay.css);
+
+/*
+*****  Abrir terminal bash: asegurarse que se está en la carpeta CSS/_24 asi se mantienen las mismas rutas *****
+cat ../a_variables.css ../b_resets.css ../c_hamburguer_menu.css ../e_main.css ../e_seccion0_loading.css ../e_seccion1_logo.css ../_24/e_24.css ../f_footer.css ../k_nodisplay.css > styles.css
+*/

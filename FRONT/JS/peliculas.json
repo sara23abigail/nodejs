@@ -1,0 +1,290 @@
+{
+  "diez_mejores": [
+    {
+      "id": 1,
+    "image": "../ASSETS/images/Peliculas/Ranking/el_secreto_de_sus_ojos.jpg",
+    "titulo": "El secreto de sus ojos",
+    "descripcion": "El secreto de sus ojos es una aclamada película argentina dirigida por Juan José Campanella. La historia sigue a Benjamín Espósito, un oficial de justicia retirado, que reabre un caso de violación y asesinato de los años 70 para escribir una novela. Mientras busca la verdad, se enfrenta a viejos amores y obsesiones. Con una notable actuación de Ricardo Darín y un guion intrigante, esta obra maestra ganó el Óscar a la Mejor Película Extranjera en 2010.",
+    "link":  "https://www.youtube.com/embed/SOW5EfrTTsE?si=wrdA9mIdkde97cwU"
+  },
+  {
+    "id": 2,
+    "image": "../ASSETS/images/Peliculas/Ranking/Un_lugar_en_el_mundo.jpg",
+    "titulo": "Un Lugar en el mundo",
+    "descripcion": "Un lugar en el mundo es una película argentina dirigida por Adolfo Aristarain. La trama sigue a Ernesto, un joven que regresa al pueblo rural donde creció. A través de sus recuerdos, la película explora su infancia y las luchas de su familia y amigos contra las injusticias sociales. Con fuertes actuaciones de Federico Luppi, Cecilia Roth y José Sacristán, este drama emotivo destaca por su profunda humanidad y crítica social. La película recibió numerosos premios y es considerada una obra esencial del cine argentino.",
+    "link": "https://www.youtube.com/embed/d0eDO3lusC0?si=ruiqVeJBrJ9KNzxJ"
+  },
+  {
+    "id": 3,
+    "image": "../ASSETS/images/Peliculas/Ranking/9reinas.jpg",
+    "titulo": "Nueve reinas",
+    "descripcion": "Nueve reinas es una emocionante película argentina dirigida por Fabián Bielinsky. La trama sigue a dos estafadores, Marcos y Juan, que se unen para vender unas valiosas estampillas falsas llamadas Las Nueve Reinas. A medida que avanza el día, se ven envueltos en una serie de engaños y traiciones que mantienen al espectador en vilo. Con destacadas actuaciones de Ricardo Darín y Gastón Pauls, la película es un thriller ingenioso y lleno de giros inesperados. Nueve reinas es considerada un clásico del cine argentino por su brillante guion y dirección.",
+    "link": "https://www.youtube.com/embed/I42JYVjQkPI?si=5MNCPEHZUCMffPaU"
+  },
+  {
+    "id": 4,
+    "image": "../ASSETS/images/Peliculas/Ranking/La_historia_oficial-.jpg",
+    "titulo": "La historia oficial",
+    "descripcion": "La historia oficial es una película argentina dirigida por Luis Puenzo. Ambientada en los años 80, sigue a Alicia, una profesora de historia que comienza a sospechar que su hija adoptiva podría ser hija de desaparecidos durante la dictadura. A medida que investiga, descubre verdades dolorosas que desafían su percepción de la realidad. Con conmovedoras actuaciones de Norma Aleandro y Héctor Alterio, la película ofrece una crítica profunda de la dictadura militar argentina. Ganadora del Óscar a la Mejor Película Extranjera en 1986, La historia oficial es un conmovedor drama sobre la memoria y la justicia.",
+    "link": "https://www.youtube.com/embed/BibM13-Jd8E?si=7FR9ie_V6RIKmkKd"
+  },
+  {
+    "id": 5,
+    "image": "../ASSETS/images/Peliculas/Ranking/El_hijo_de_la_novia.jpg",
+    "titulo": "El hijo de la novia",
+    "descripcion": "El hijo de la novia es una conmovedora película argentina dirigida por Juan José Campanella. La historia sigue a Rafael, un hombre de mediana edad abrumado por la vida, que busca redimirse al ayudar a su madre, quien padece Alzheimer, a cumplir su sueño de casarse por la iglesia. Con emotivas actuaciones de Ricardo Darín, Héctor Alterio y Norma Aleandro, la película aborda temas de familia, amor y redención, y fue nominada al Óscar como Mejor Película Extranjera en 2002.",
+    "link": "https://www.youtube.com/embed/AoAU_eeSq4o?si=DUPzfV_MMAhffj1q"
+  },
+  {
+    "id": 6,
+    "image": "../ASSETS/images/Peliculas/Ranking/relatos_salvajes.jpg",
+    "titulo": "Relatos salvajes",
+    "descripcion": "Relatos salvajes es una antología de seis cortometrajes dirigida por Damián Szifron. Cada historia explora la ira y la venganza en situaciones extremas y cotidianas, desde un desencuentro en la carretera hasta una boda desastrosa. Con un elenco estelar que incluye a Ricardo Darín, Leonardo Sbaraglia y Érica Rivas, la película combina humor negro y tensión, destacándose por su ingenio y crítica social. Nominada al Óscar como Mejor Película Extranjera en 2015, es un ejemplo brillante del cine argentino contemporáneo.",
+    "link": "https://www.youtube.com/embed/CzJM3jYKjAg?si=MRJG69x5FQq0mzzW"
+  },
+  {
+    "id": 7,
+    "image": "../ASSETS/images/Peliculas/Ranking/Lugares_comunes.jpg",
+    "titulo": "Lugares comunes",
+    "descripcion": "Lugares comunes es un drama argentino dirigido por Adolfo Aristarain. La película sigue a Fernando, un profesor universitario que enfrenta un cambio drástico en su vida tras ser forzado a jubilarse. Junto a su esposa Liliana, se ve obligado a replantearse su futuro y su lugar en el mundo. Con actuaciones profundas de Federico Luppi y Mercedes Sampietro, el film ofrece una reflexión sobre la vejez, el amor y la resistencia ante los cambios inevitables de la vida.",
+    "link": "https://www.youtube.com/embed/xXQJbhcsAyI?si=HF_EUa12VdvhrUn8"
+  },
+  {
+    "id": 8,
+    "image": "../ASSETS/images/Peliculas/Ranking/Tiempo_de_revancha.jpg",
+    "titulo": "Tiempo de revancha",
+    "descripcion": "Tiempo de revancha es un thriller argentino dirigido por Adolfo Aristarain. La historia sigue a Pedro Bengoa, un exsindicalista que se une a un ingeniero para estafar a una empresa corrupta fingiendo un accidente laboral. Sin embargo, la situación se complica de manera inesperada. Con una intensa actuación de Federico Luppi, la película critica la corrupción y la lucha de clases, destacándose por su guion ingenioso y su dirección precisa.",
+    "link": "https://www.youtube.com/embed/f6fIawRcRxs?si=3mjJZyVq2lUWeej_"
+  },
+  {
+    "id": 9,
+    "image": "../ASSETS/images/Peliculas/Ranking/Rosaura_a_las_diez.jpg",
+    "titulo": "Rosaura a las diez",
+    "descripcion": "Rosaura a las diez es una película argentina dirigida por Mario Soffici, basada en la novela homónima de Marco Denevi. La trama gira en torno a la llegada de una misteriosa mujer, Rosaura, a una pensión, lo que desencadena una serie de eventos y revelaciones sorprendentes. Con un enfoque en el misterio y el suspense, la película es un clásico del cine argentino, reconocido por su narrativa intrigante y su atmosfera envolvente.",
+    "link": "https://www.youtube.com/embed/gltR19O0q1Q?si=AHpUTW1lpOJ5bhwk"
+  },
+  {
+    "id": 10,
+    "image": "../ASSETS/images/Peliculas/Ranking/martin_hache.jpg",
+    "titulo": "Martin (Hache)",
+    "descripcion": "Martín (Hache) es una película dirigida por Adolfo Aristarain que explora las complejidades de la relación entre un padre y su hijo. Martín, un cineasta argentino en España, debe hacerse cargo de su hijo Hache, un joven problemático que llega a Madrid tras un intento de suicidio. La película profundiza en temas como la identidad, el desarraigo y las relaciones familiares, con destacadas actuaciones de Federico Luppi, Juan Diego Botto y Cecilia Roth. Es una obra emotiva y reflexiva del cine argentino.",
+    "link": "https://www.youtube.com/embed/cUQIHRV3Vlc?si=UZ_AHoa7C5yX1758"
+  }
+],
+    "accion": [
+      {
+        "id": 1,
+      "image": "../ASSETS/images/Peliculas/accion/4x4.jpg",
+      "titulo": "4x4",
+      "descripcion": "4x4 es un thriller argentino dirigido por Mariano Cohn. La película sigue a Ciro, un ladrón que queda atrapado dentro de una camioneta de lujo blindada mientras intenta robarla. A medida que pasan las horas, la desesperación y la tensión aumentan, revelando las intenciones del dueño del vehículo. Con una destacada actuación de Peter Lanzani, 4x4 es una crítica social intensa y claustrofóbica sobre la justicia y la venganza.",
+      "link":  "https://www.youtube.com/embed/JCiKDyQlI3Q?si=J0DHu1By_nx1KGdu"
+    },
+    {
+      "id": 2,
+      "image": "../ASSETS/images/Peliculas/accion/8tiros.jpg",
+      "titulo": "8 tiros",
+      "descripcion": "8 tiros es un drama argentino dirigido por Bruno Hernández. La trama sigue a Juan, un exconvicto que regresa a su hogar tras ocho años en prisión y se reencuentra con su hermano Vicente. La película explora la redención, la venganza y la búsqueda de la verdad, destacando las actuaciones de Daniel Aráoz y Luis Ziembrowski. Es una historia intensa sobre los lazos familiares y las segundas oportunidades.",
+      "link": "https://www.youtube.com/embed/bRHSoO7g9FU?si=J0DHu1By_nx1KGdu"
+    },
+    {
+      "id": 3,
+      "image": "../ASSETS/images/Peliculas/accion/al_final_del_tunel.jpg",
+      "titulo": "Al final del tunel",
+      "descripcion": "Al final del túnel es un thriller dirigido por Rodrigo Grande. La película cuenta la historia de Joaquín, un parapléjico que descubre que un grupo de ladrones está excavando un túnel bajo su casa para robar un banco cercano. Con la ayuda de su inquilina Berta y su hija Betty, planea frustrar el robo. Protagonizada por Leonardo Sbaraglia y Clara Lago, es un film lleno de suspense y giros inesperados.",
+      "link": "https://www.youtube.com/embed/0QMmqGrBrRQ?si=J0DHu1By_nx1KGdu"
+    },
+    {
+      "id": 4,
+      "image": "../ASSETS/images/Peliculas/accion/el_robo_Del_siglo.jpg",
+      "titulo": "El robo del siglo",
+      "descripcion": "El robo del siglo es una comedia dramática basada en hechos reales, dirigida por Ariel Winograd. Narra el famoso robo al Banco Río en 2006, donde una banda de ladrones ejecutó un ingenioso plan sin precedentes en Argentina. Con un elenco estelar encabezado por Guillermo Francella y Diego Peretti, la película combina humor, tensión y un ingenioso guion, convirtiéndose en un éxito de taquilla.",
+      "link": "https://www.youtube.com/embed/8m6aAhgi7Xg?si=7FR9ie_V6RIKmkKd"
+    },
+    {
+      "id": 5,
+      "image": "../ASSETS/images/Peliculas/accion/elerfante_blanco.jpg",
+      "titulo": "Elefante blanco",
+      "descripcion": "Elefante blanco es un drama social dirigido por Pablo Trapero. La historia se centra en dos sacerdotes, Julián y Nicolás, que trabajan en una villa miseria de Buenos Aires, luchando contra la pobreza, la violencia y la corrupción. Con actuaciones de Ricardo Darín y Jérémie Renier, la película ofrece una mirada cruda y realista a los desafíos de los barrios marginados y el compromiso social.",
+      "link": "https://www.youtube.com/embed/GruYqcaH20A?si=DUPzfV_MMAhffj1q"
+    },
+    {
+      "id": 6,
+      "image": "../ASSETS/images/Peliculas/accion/iluminados_por_el_fuego.jpg",
+      "titulo": "Iluminados por el fuego",
+      "descripcion": "Iluminados por el fuego es un drama bélico dirigido por Tristán Bauer. Basada en hechos reales, la película sigue a un veterano de la Guerra de las Malvinas que recuerda sus experiencias traumáticas durante el conflicto. Protagonizada por Gastón Pauls, ofrece una reflexión conmovedora sobre los horrores de la guerra y sus secuelas en los soldados. Ganadora de varios premios, es una pieza importante del cine argentino contemporáneo.",
+      "link": "https://www.youtube.com/embed/Tf_fS_ru2mc?si=MRJG69x5FQq0mzzW"
+    },
+    {
+      "id": 7,
+      "image": "../ASSETS/images/Peliculas/accion/madraza.jpg",
+      "titulo": "Madraza",
+      "descripcion": "Madraza es una comedia negra dirigida por Hernán Aguilar. La película cuenta la historia de Matilde, una ama de casa de Buenos Aires que se convierte en sicaria tras la muerte de su marido. Con una mezcla de humor, acción y drama, y protagonizada por Loren Acuña, Madraza ofrece una visión original y entretenida de una mujer que transforma su vida de manera radical.",
+      "link": "https://www.youtube.com/embed/sGFQaRwVDuY?si=HF_EUa12VdvhrUn8"
+    },
+    {
+      "id": 8,
+      "image": "../ASSETS/images/Peliculas/accion/nieve_negra.jpg",
+      "titulo": "Nieve negra",
+      "descripcion": "Nieve negra es un thriller dirigido por Martín Hodara. La trama sigue a Salvador, quien vive aislado en la Patagonia tras ser acusado de matar a su hermano. Cuando su otro hermano, Marcos, llega con su esposa para convencerlo de vender las tierras familiares, se revelan oscuros secretos del pasado. Con Ricardo Darín y Leonardo Sbaraglia, la película es un intenso drama familiar lleno de misterio.",
+      "link": "https://www.youtube.com/embed/ewKSzRsnsLo?si=3mjJZyVq2lUWeej_"
+    },
+    {
+      "id": 9,
+      "image": "../ASSETS/images/Peliculas/accion/solo_se_vive_una_vez.jpg",
+      "titulo": "Solo se vive una vez",
+      "descripcion": "Solo se vive una vez es una comedia de acción dirigida por Federico Cueva. La historia sigue a Leo, un estafador que se ve envuelto en una persecución peligrosa después de robar a la persona equivocada. Con la ayuda de una serie de personajes pintorescos, intenta sobrevivir y redimirse. Protagonizada por Peter Lanzani y con la participación de Gerard Depardieu, es una película entretenida y llena de acción.",
+      "link": "https://www.youtube.com/embed/Ap8wI7vXd-4?si=AHpUTW1lpOJ5bhwk"
+    },
+    {
+      "id": 10,
+      "image": "../ASSETS/images/Peliculas/accion/tiempo_de_valientes.jpg",
+      "titulo": "Tiempo de valientes",
+      "descripcion": "Tiempo de valientes es una comedia policial dirigida por Damián Szifron. La historia sigue a Mariano, un psicoanalista, que se ve obligado a acompañar a Alfredo, un policía deprimido, en sus investigaciones. Juntos, forman un equipo inusual que resuelve crímenes mientras enfrentan sus propios problemas personales. Con Diego Peretti y Luis Luque, la película combina humor y acción de manera brillante.",
+      "link": "https://www.youtube.com/embed/Vp0csgZCgQo?si=UZ_AHoa7C5yX1758"
+    }
+  ],
+    "comedia": [
+      {
+        "id": 1,
+      "image": "../ASSETS/images/Peliculas/comedia/Casi-leyendas.jpg",
+      "titulo": "Casi leyendas",
+      "descripcion": "Casi leyendas es una comedia dramática dirigida por Gabriel Nesci. La película cuenta la historia de tres amigos que se reencuentran después de muchos años para revivir su antigua banda de rock. Con Diego Peretti, Diego Torres y Santiago Segura, la película explora la amistad, los sueños perdidos y la oportunidad de redención. Es una historia divertida y emotiva sobre segundas oportunidades.",
+      "link":  "https://www.youtube.com/embed/_HPF1qvUq6A?si=UZ_AHoa7C5yX1758"
+    },
+    {
+      "id": 2,
+      "image": "../ASSETS/images/Peliculas/comedia/contando_ovejas.jpg",
+      "titulo": "Contando ovejas",
+      "descripcion": "Contando ovejas es una película de comedia y drama dirigida por José Corral Llorente. La trama sigue a Ernesto, un hombre solitario que encuentra consuelo en su vida rutinaria hasta que la aparición de personajes peculiares cambia su perspectiva. Con actuaciones destacadas, la película ofrece una mezcla de humor y reflexión sobre la soledad y la búsqueda de conexión humana.",
+      "link": "https://www.youtube.com/embed/EX91I07kqxk?si=UZ_AHoa7C5yX1758"
+    },
+    {
+      "id": 3,
+      "image": "../ASSETS/images/Peliculas/comedia/corazon_de_leon.jpg",
+      "titulo": "Corazón de leon",
+      "descripcion": "Corazón de león es una comedia romántica dirigida por Marcos Carnevale. La historia sigue a Ivana, una exitosa abogada que se enamora de León, un hombre encantador pero mucho más bajo que ella. Protagonizada por Guillermo Francella y Julieta Díaz, la película aborda los prejuicios y las diferencias con humor y sensibilidad, destacando la importancia de la aceptación y el amor verdadero.",
+      "link": "https://www.youtube.com/embed/c8N4QeX6dOU?si=UZ_AHoa7C5yX1758"
+    },
+    {
+      "id": 4,
+      "image": "../ASSETS/images/Peliculas/comedia/el_cuento_de _las_comadrejas.jpg",
+      "titulo": "El cuento de las comadrejas",
+      "descripcion": "El cuento de las comadrejas es una comedia negra dirigida por Juan José Campanella. La historia sigue a una actriz retirada, su esposo director, un guionista y un actor que viven juntos en una mansión, hasta que la llegada de una joven pareja amenaza su tranquila existencia. Con un elenco estelar que incluye a Graciela Borges y Oscar Martínez, la película es ingeniosa, mordaz y llena de giros sorprendentes.",
+      "link": "https://www.youtube.com/embed/7NHCAvTasnE?si=UZ_AHoa7C5yX1758"
+    },
+    {
+      "id": 5,
+      "image": "../ASSETS/images/Peliculas/comedia/esperando_la_carroza.jpg",
+      "titulo": "Esperando la carroza",
+      "descripcion": "Esperando la carroza es una comedia argentina clásica dirigida por Alejandro Doria. La trama gira en torno a una caótica reunión familiar cuando desaparece Mamá Cora, una anciana con demencia. Con actuaciones memorables de Antonio Gasalla y China Zorrilla, la película es una sátira hilarante sobre la familia y los conflictos generacionales, y ha alcanzado un estatus de culto en la cultura argentina.",
+      "link": "https://www.youtube.com/embed/KIgOuEPQZsU?si=UZ_AHoa7C5yX1758"
+    },
+    {
+      "id": 6,
+      "image": "../ASSETS/images/Peliculas/comedia/me_case_con_un_boludo.jpg",
+      "titulo": "Me case con un boludo",
+      "descripcion": "Me casé con un boludo es una comedia romántica dirigida por Juan Taratuto. La historia sigue a Florencia, una actriz que se casa con su coestrella Fabián, solo para darse cuenta después de la boda de que él es un idiota. Con Adrián Suar y Valeria Bertuccelli, la película explora las expectativas y desilusiones en las relaciones amorosas con humor y ternura.",
+      "link": "https://www.youtube.com/embed/q6y4Amr5rGI?si=UZ_AHoa7C5yX1758"
+    },
+    {
+      "id": 7,
+      "image": "../ASSETS/images/Peliculas/comedia/mi_obra_maestra.jpg",
+      "titulo": "Mi obra maestra",
+      "descripcion": "Mi obra maestra es una comedia dramática dirigida por Gastón Duprat. La película sigue a Arturo, un galerista de arte, y a su amigo Renzo, un pintor talentoso pero en decadencia. Juntos, planean un fraude para revivir la carrera de Renzo. Con Guillermo Francella y Luis Brandoni, es una reflexión sobre la amistad, el arte y la moralidad en el mundo del arte contemporáneo.",
+      "link": "https://www.youtube.com/embed/YjLVIyMNvhk?si=O0DYoc5QwmtzDOOY"
+    },
+    {
+      "id": 8,
+      "image": "../ASSETS/images/Peliculas/comedia/puan.jpg",
+      "titulo": "Puan",
+      "descripcion": "Puan es una película argentina que sigue la vida de un profesor de filosofía en una universidad pública de Buenos Aires. La trama aborda los desafíos académicos, personales y sociales que enfrenta el protagonista mientras intenta mantener su integridad y pasión por la enseñanza. Con un enfoque crítico y reflexivo, la película explora temas de educación, ética y la lucha por el reconocimiento en un entorno adverso.",
+      "link": "https://www.youtube.com/embed/_fumoIIm2V0?si=NO3_oRoduVvsRptB"
+    },
+    {
+      "id": 9,
+      "image": "../ASSETS/images/Peliculas/comedia/un_cuento_chino.jpg",
+      "titulo": "Un cuento chino",
+      "descripcion": "Un cuento chino es una comedia dramática dirigida por Sebastián Borensztein. La historia sigue a Roberto, un ferretero solitario y meticuloso, que inesperadamente debe ayudar a Jun, un joven chino que no habla español y busca a su familia en Argentina. Con Ricardo Darín en el papel principal, la película es una mezcla de humor y ternura que celebra las conexiones humanas inesperadas.",
+      "link": "https://www.youtube.com/embed/Vp0csgZCgQo?si=UZ_AHoa7C5yX1758"
+    },
+    {
+      "id": 10,
+      "image": "../ASSETS/images/Peliculas/comedia/un_novio_para_mi_mujer.jpg",
+      "titulo": "Un novio para mi mujer",
+      "descripcion": "Un novio para mi mujer es una comedia dirigida por Juan Taratuto. La historia sigue a Tenso, un hombre que quiere separarse de su insoportable esposa, Tana, pero no sabe cómo. Decide contratar a un seductor profesional para que ella se enamore de otro hombre y lo deje. Con Adrián Suar y Valeria Bertuccelli, la película es divertida y ofrece una mirada humorística a las relaciones de pareja.",
+      "link": "https://www.youtube.com/embed/yU_ms32GeRw?si=nmtpEp0hXLgZaF4l"
+    }
+  ],
+    "romanticas": [
+      {
+        "id": 1,
+      "image": "../ASSETS/images/Peliculas/romance/30noches con mi ex.jpg",
+      "titulo": "30 noches con mi ex",
+      "descripcion": "30 noches con mi ex es una comedia romántica argentina dirigida por Adrián Suar. La trama sigue a un hombre que debe convivir con su exesposa durante 30 días por un mandato judicial. La convivencia forzada los lleva a revivir viejos conflictos y redescubrir sentimientos. Con Suar y Pilar Gamboa en los papeles principales, la película explora las segundas oportunidades y la importancia del perdón en las relaciones amorosas.",
+      "link":  "https://www.youtube.com/embed/IKRwXsCUjfI?si=UZ_AHoa7C5yX1758"
+    },
+    {
+      "id": 2,
+      "image": "../ASSETS/images/Peliculas/romance/carancho.jpg",
+      "titulo": "Carancho",
+      "descripcion": "Carancho es un thriller dirigido por Pablo Trapero. La historia sigue a Sosa, un abogado corrupto que se especializa en casos de accidentes de tránsito fraudulentos. Su vida cambia cuando conoce a Luján, una joven médica que trabaja en emergencias. Juntos, enfrentan la corrupción y la violencia en un mundo dominado por el crimen y la desesperación. Protagonizada por Ricardo Darín y Martina Gusmán, la película es un retrato oscuro y visceral de la sociedad argentina.",
+      "link": "https://www.youtube.com/embed/o4LEsWcTuCo?si=ruiqVeJBrJ9KNzxJ"
+    },
+    {
+      "id": 3,
+      "image": "../ASSETS/images/Peliculas/romance/el amor menos pensado.jpg",
+      "titulo": "El amor menos pensado",
+      "descripcion": "El amor menos pensado es una comedia romántica dirigida por Juan Vera. La historia sigue a Marcos y Ana, una pareja que después de más de 25 años de matrimonio, se enfrenta a la crisis de la mediana edad. Deciden separarse temporalmente para explorar nuevas posibilidades en sus vidas, lo que los lleva a descubrir la importancia del amor, la pasión y la intimidad en una relación duradera. Con Ricardo Darín y Mercedes Morán en los papeles principales, la película es una reflexión conmovedora sobre el amor y la conexión emocional.",
+      "link": "https://www.youtube.com/embed/kNvnuCT9Q9w?si=5MNCPEHZUCMffPaU"
+    },
+    {
+      "id": 4,
+      "image": "../ASSETS/images/Peliculas/romance/el mismo amor la misma lluvia.jpg",
+      "titulo": "El mismo amor la misma lluvia",
+      "descripcion": "El mismo amor, la misma lluvia es una película dirigida por Juan José Campanella. La historia sigue a Jorge, un escritor y poeta, y a Laura, una joven estudiante de literatura, a lo largo de dos décadas en Argentina. La película explora su complicada relación a través de los cambios políticos y sociales del país. Con Ricardo Darín y Soledad Villamil, es una historia nostálgica y emotiva sobre el amor y la perseverancia.",
+      "link": "https://www.youtube.com/embed/YOtJYtz-ZTg?si=7FR9ie_V6RIKmkKd"
+    },
+    {
+      "id": 5,
+      "image": "../ASSETS/images/Peliculas/romance/el misterio de la felicidad.jpg",
+      "titulo": "El misterio de la felicidad",
+      "descripcion": "El misterio de la felicidad es una comedia dramática dirigida por Daniel Burman. La historia sigue a Santiago y Eugenio, dos amigos que se reencuentran después de muchos años cuando Eugenio desaparece misteriosamente. Juntos, emprenden un viaje para resolver el enigma de la desaparición y descubrir el verdadero significado de la felicidad. Con Guillermo Francella y Fabián Arenillas, la película es una exploración conmovedora sobre la amistad y la búsqueda de la plenitud.",
+      "link": "https://www.youtube.com/embed/CgY0YxYgCsw?si=DUPzfV_MMAhffj1q"
+    },
+    {
+      "id": 6,
+      "image": "../ASSETS/images/Peliculas/romance/estado impuro.jpg",
+      "titulo": "Estado impuro",
+      "descripcion": "Estado impuro es un thriller político dirigido por Héctor Olivera. La película sigue a un periodista que investiga un caso de corrupción en el gobierno argentino. A medida que profundiza en la historia, se ve envuelto en una red de conspiraciones y peligros que amenazan su vida y la de sus seres queridos. Con Leonardo Sbaraglia y Luis Machín, es un thriller intenso que critica la corrupción y la impunidad en la sociedad contemporánea.",
+      "link": "https://www.youtube.com/embed/uAwOAa_mpQ4?si=fsuo6NAAYdliC02j"
+    },
+    {
+      "id": 7,
+      "image": "../ASSETS/images/Peliculas/romance/hawaii.jpg",
+      "titulo": "Hawaii",
+      "descripcion": "Hawaii es un drama argentino dirigido por Marco Berger. La historia sigue a Eugenio, un joven profesor que se muda a un pueblo remoto en Argentina para trabajar en una escuela rural. Allí conoce a Martín, un adolescente solitario y rebelde, con quien desarrolla una relación inesperada y compleja. La película explora temas de identidad, deseo y tabúes sociales con sensibilidad y profundidad.",
+      "link": "https://www.youtube.com/embed/CQolZplzcns?si=HF_EUa12VdvhrUn8"
+    },
+    {
+      "id": 8,
+      "image": "../ASSETS/images/Peliculas/romance/inevitable.jpg",
+      "titulo": "Inevitable",
+      "descripcion": "Inevitable es un thriller dirigido por Jorge Algora. La película sigue a Lucía, una mujer que regresa a Buenos Aires después de varios años en el extranjero y se encuentra atrapada en una serie de eventos perturbadores y misteriosos. Con la ayuda de un exnovio, intenta desentrañar la verdad detrás de una conspiración que amenaza su vida y la de su familia. Protagonizada por Natalia Oreiro y Leonardo Sbaraglia, es un thriller psicológico lleno de intriga y suspense.",
+      "link": "https://www.youtube.com/embed/QngF-DpdQpI?si=3mjJZyVq2lUWeej_"
+    },
+    {
+      "id": 9,
+      "image": "../ASSETS/images/Peliculas/romance/la uruguaya.jpg",
+      "titulo": "La uruguaya",
+      "descripcion": "La uruguaya es una comedia dirigida por Javier Guarino y Manuel Facal. La película sigue a un grupo de amigos uruguayos que viajan a Buenos Aires para asistir a un concierto de música. Durante su estadía, enfrentan una serie de situaciones absurdas y cómicas que ponen a prueba su amistad y sus límites. Con un humor fresco y desenfadado, la película ofrece una mirada divertida a las relaciones interpersonales y las diferencias culturales.",
+      "link": "https://www.youtube.com/embed/v1L9IZIQGE0?si=AHpUTW1lpOJ5bhwk"
+    },
+    {
+      "id": 10,
+      "image": "../ASSETS/images/Peliculas/romance/las mil y una.jpg",
+      "titulo": "las mil y una",
+      "descripcion": "Las mil y una es una comedia romántica dirigida por Clarisa Navas. La película sigue a Iris, una joven que trabaja en un motel en las afueras de Posadas, Argentina, y sueña con escapar de su monótona vida. Cuando conoce a Renata, una viajera misteriosa, su vida da un giro inesperado y se embarcan juntas en una aventura romántica. Con un estilo visual único y una narrativa poética, la película es una celebración del amor y la libertad.",
+      "link": "https://www.youtube.com/embed/iR08FUuyOGk?si=gwMQcFXvtK-lloaS"
+    }
+  ]
+}

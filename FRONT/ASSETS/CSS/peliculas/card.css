@@ -1,0 +1,233 @@
+/**************************/
+/*    card    */
+/**************************/
+
+#main-peliculas {
+  grid-template-columns: 1fr 55vh 1fr;
+  grid-template-rows: 25vh 35vh 40vh 0vh;
+}
+
+#banner{
+  grid-area: 3 / 2 / 4 / 5;
+  width: 100vw;
+  justify-self: center;
+  align-items: center;
+  padding: 0rem;
+  display: grid;
+  article{
+    justify-self: center;
+    align-items: center;
+    &:first-child{
+      color: var(--color-white);
+      text-align: center;
+      padding-top: 0.2rem;
+      height: 0.8rem;
+      font-size: 0.5rem;
+      font-weight: 300;
+      font-family: Arial, Helvetica, sans-serif;
+    }
+    &:last-child{
+      height: 25vh;
+    }
+  }
+}
+
+.new-banner{
+  display: grid;
+  grid-column-start: 2;
+  grid-column-end: 5;
+  width: 100vw;
+  justify-self: center;
+  align-items: center;
+  article{
+    justify-self: center;
+    align-items: center;
+    &:first-child{
+      color: var(--color-white);
+      text-align: center;
+      height: 10vh;
+      font-size: 0.5rem;
+      font-weight: 300;
+      font-family: Arial, Helvetica, sans-serif;
+    }
+    &:last-child{
+      height: 25vh;
+    }
+  }
+}
+
+.card{
+  width: 7vw;
+  overflow: hidden;
+  margin: 0.5vh 0.2vw 0vh 0.2vw;
+  display: inline-block;
+  cursor:pointer;
+  /* Otras propiedades de estilo para la tarjeta */
+  transition: transform 0.3s ease; /* Agregamos una transición suave */
+  &:hover{
+    transform: scale(1.2); /* Escalamos la tarjeta en un 5% al hacer hover */
+  }
+}
+
+.card-content{
+  display: grid;
+  img{
+    justify-self: center;
+    align-self: baseline;
+  }
+}
+/*
+.card-content h3{
+  margin-top: 0;
+}
+*/
+@media screen and (min-width: 576px) and (max-width: 991px) {
+  #main-peliculas {
+    grid-template-columns: 4fr 80vh 2fr 20vh;
+    grid-template-rows: 20vh 20vh 20vh 40vh;
+  }
+  #banner{
+    grid-area: 4 / 1 / 5 / 4;
+    width: 100vw;
+    margin-right: 20vh;
+    article{
+      &:first-child{
+        color: var(--color-white);
+        text-align: center;
+        height: 8vh;
+        font-size: 0.8rem;
+        font-weight: 300;
+        font-family: Arial, Helvetica, sans-serif;
+      }
+      &:last-child{
+        height: 20vh;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content:space-around;
+        align-items:center;
+      }
+    }
+  }
+
+  .container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content:center;
+    align-items:baseline;
+    padding: 0rem 5vw;
+  }
+
+  .card{
+    width: 7vw;
+    overflow: hidden;
+    margin: 0.2vh 0.2vw 0vh 0.2vw;
+  }
+
+  .card-content{
+    img{
+      width: 6vw;
+      height: auto;
+    }
+  }
+
+  .new-banner{
+    margin-top: 5vh;
+    grid-column-start: 1;
+    grid-column-end: 4;
+    width: 100vw;
+    margin-right: 20vh;
+    article{
+      &:first-child{
+        color: var(--color-white);
+        text-align: center;
+        height: 8vh;
+        font-size: 0.8rem;
+        font-weight: 300;
+        font-family: Arial, Helvetica, sans-serif;
+      }
+      &:last-child{
+        height: 20vh;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content:space-around;
+        align-items:center;
+      }
+    }
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .container{
+      display: flex;
+  }
+
+  #main-peliculas {
+    display: grid;
+    grid-template-columns: 20vh 3fr 80vh 3fr;
+    grid-template-rows: 20vh 40vh 40vh 0vh;
+  }
+
+  #banner{
+    grid-area: 3 / 2 / 4 / 4;
+    width: 80vh;
+    padding: 0.5rem;
+    margin: 0;
+    padding: 0;
+    right: 0;
+    article{
+      justify-self: center;
+      align-items: center;
+      &:first-child{
+        color: var(--color-white);
+        text-align: center;
+        padding-top: 0.2rem;
+        height: 0.8rem;
+        font-size: 0.5rem;
+        font-weight: 300;
+        font-family: Arial, Helvetica, sans-serif;
+      }
+      &:last-child{
+        height: 20vh;
+      }
+    }
+  }
+
+  .new-banner{
+    margin-top: 5vh;
+    width: 80vh;
+    grid-column-start: 2;
+    grid-column-end: 4;
+    article{
+      justify-self: center;
+      align-items: center;
+      &:first-child{
+        margin-bottom: 5vh;
+        color: var(--color-white);
+        text-align: center;
+        padding-top: 0.2rem;
+        height: 0.8rem;
+        font-size: 0.5rem;
+        font-weight: 300;
+        font-family: Arial, Helvetica, sans-serif;
+      }
+      &:last-child{
+        height: 20vh;
+      }
+    }
+  }
+
+  .card{
+    width: 6vw;
+    /*margin: 3vh 0.5vw 0vh 0.5vw;*/
+  }
+
+  .card-content{
+    img{
+      width: 6vw;
+      height: auto;
+    }
+  }
+}

@@ -1,0 +1,42 @@
+/**************************/
+/*Normalizaciones y resets*/
+/**************************/
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+html {
+  box-sizing: border-box;
+  font-size: var(--font-size);
+  font-family: var(--fuente-principal);
+  scroll-behavior: smooth;
+}
+
+body {
+  width: 100vw;
+  background-color: var(--color-principal-de-fondo);
+  /*overflow: hidden;*/
+}
+
+img{
+  max-width: 100%;
+  height: auto;
+}
+
+a {
+  text-decoration: none;
+  }
+
+
+ul {
+  list-style: none;
+}
+
+h1{
+  color:var(--color-principal-de-fondo);
+  font-size: 0rem;
+}

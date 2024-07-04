@@ -1,0 +1,122 @@
+/*****************************************/
+/** Inicio Secion e Inicio Secion nuevo **/
+/*****************************************/
+
+#inicio-sesion, #inicio-sesion-new{
+  grid-area: 2 / 1 / 4 / 4;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
+  article{
+    div{
+      color: var(--color-white);
+      text-align: center;
+      font-size: 0.8rem;
+    }
+  }
+}
+
+#inicio-sesion-new{
+  grid-area: 2 / 2 / 4 / 3;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
+}
+
+#inicio-sesion article:hover div .img-user-avatar, #inicio-sesion-new article:hover div .img-user-avatar{
+  height: 13rem;
+}
+
+.avatar{
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  &:hover{
+    cursor: pointer;
+    background-color: var(--color-principal-de-fondo-hover);
+  }
+}
+
+.img-user-avatar{
+  height: 10vh;
+  width: auto;
+}
+
+#agregar-usuario, #agregar-usuario-new{
+  cursor: pointer;
+  &:hover{
+    font-weight: 700;
+    color: var(--color-link);
+  }
+}
+
+@media screen and (min-width: 576px) and (max-width: 991px) {
+  #inicio-sesion{
+    grid-area: 2 / 1 / 5 / 4;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    article{
+      div{
+        font-size: 1rem;
+      }
+    }
+  }
+  #inicio-sesion-new{
+    grid-area: 2 / 1 / 5 / 4;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    article{
+      div{
+        font-size: 1rem;
+      }
+    }
+  }
+  .avatar{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .img-user-avatar{
+    height: 15vh;
+    width: auto;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  #inicio-sesion {
+    grid-area: 1 / 2 / 4 / 5;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    article{
+      div{
+        font-size: 2rem;
+      }
+    }
+  }
+  #inicio-sesion-new{
+    grid-area: 1 / 2 / 4 / 5;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    article{
+      div{
+        font-size: 2rem;
+      }
+    }
+  }
+  .avatar{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .img-user-avatar{
+    height: 20vh;
+    width: auto;
+  }
+}

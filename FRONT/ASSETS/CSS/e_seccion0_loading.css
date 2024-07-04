@@ -1,0 +1,51 @@
+/***********************/
+/*      Seccion 0      */
+/***********************/
+
+
+#loading{
+  width: 100%;
+  height: 35vh;
+  font-size: 3rem;
+  color: var(--color-naranja-logo);
+  font-weight: 400;
+  display: block;
+  text-align: center;
+  padding-top: calc(55vh / 2);
+}
+
+#loading span{
+  animation: salto 1s alternate
+    infinite;
+}
+
+#cargando1{ 
+  animation-delay: 0.30s; 
+}
+#cargando2{ 
+  animation-delay: 0.60s; 
+}
+#cargando3{ 
+  animation-delay: 0.90s; 
+}
+@keyframes salto {
+    from {
+        opacity: 1;
+    }
+    to{
+        opacity: 0;
+    }
+}
+
+@media screen and (min-width: 576px) and (max-width: 991px) {
+  #loading{
+    font-size: 6rem;
+    height: 55vh;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  #loading{
+    font-size: 6rem;
+  }
+}

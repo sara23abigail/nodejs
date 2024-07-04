@@ -1,0 +1,291 @@
+{
+  "diez_mejores": [
+    {
+      "id": 1,
+      "image": "../ASSETS/images/Series/ranking/los simuladores.jpg",
+      "titulo": "Los simuladores(2002-2004)",
+      "descripcion": "Los Simuladores es una serie argentina creada por Damián Szifron. La trama sigue a un equipo de especialistas que ofrecen servicios de solución de problemas mediante la simulación de diversas situaciones. Con un enfoque en el ingenio y el suspense, la serie combina humor, drama y acción en cada episodio, explorando temas como la justicia, la moralidad y la redención. Protagonizada por Federico D'Elía, Diego Peretti, Martín Seefeld y Alejandro Fiore, Los Simuladores es una de las series más aclamadas del género en Argentina.",
+      "link": "https://www.youtube.com/embed/U0NLRvZq_KY?si=tT6aqH2sqR9Am4j_"
+    },
+    {
+      "id": 2,
+      "image": "../ASSETS/images/Series/ranking/okupas.jpg",
+      "titulo": "Okupas(2000)",
+      "descripcion": "Okupas es una serie argentina creada por Bruno Stagnaro y Ariel Staltari. La historia sigue a un grupo de jóvenes marginales que viven en un edificio abandonado en Buenos Aires. A través de sus experiencias, la serie aborda temas como la amistad, la supervivencia y la lucha contra la adversidad en una sociedad desigual. Con un enfoque realista y una narrativa provocadora, Okupas es considerada una obra maestra del cine y la televisión argentina.",
+      "link": "https://www.youtube.com/embed/krNjzL2qFxo?si=CrKVsg7_JWWjLNCC"
+    },
+    {
+      "id": 3,
+      "image": "../ASSETS/images/Series/ranking/grande pa.jpg",
+      "titulo": "Grande Pá!(1991-1994)",
+      "descripcion": "Grande Pá! es una comedia argentina creada por Gerardo Sofovich. La serie sigue las peripecias de una familia de clase media en Buenos Aires, centrada en la figura del patriarca, interpretado por Gerardo Sofovich. Con un humor ágil y situaciones cotidianas, la serie fue muy popular en su época y se destacó por su elenco talentoso y sus divertidas tramas.",
+      "link": "https://www.youtube.com/embed/W9P2LY_P6Mc?si=JbG3esJxq8AnQ8GP"
+    },
+    {
+      "id": 4,
+      "image": "../ASSETS/images/Series/ranking/culpables.jpg",
+      "titulo": "Culpables(2001)",
+      "descripcion": "Culpables es una serie argentina de suspenso y drama creada por Javier Daulte y Walter Slavich. La trama sigue a un grupo de abogados penalistas que defienden a clientes acusados de crímenes. A medida que investigan los casos, descubren secretos oscuros y se enfrentan a dilemas éticos. Con un elenco destacado encabezado por Pablo Echarri y Soledad Silveyra, Culpables es una serie intensa y adictiva que ofrece una mirada intrigante al sistema judicial argentino.",
+      "link": "https://www.youtube.com/embed/COinJizIgD0?si=KK5EnXkyFkgU41nL"
+    },
+    {
+      "id": 5,
+      "image": "../ASSETS/images/Series/ranking/la casa del mar.jpg",
+      "titulo": "La Casa del Mar (2015-2016)",
+      "descripcion": "La Casa del Mar es una serie argentina de drama y misterio creada por Juan José Campanella. La historia sigue a un grupo de personas que se encuentran atrapadas en un misterioso hotel aislado en la costa. Con un ambiente tenso y enigmático, la serie explora los secretos y conflictos de los personajes mientras luchan por sobrevivir y descubrir la verdad detrás del lugar. Con un elenco estelar que incluye a Calu Rivero y Gustavo Garzón, La Casa del Mar es una experiencia televisiva única y envolvente.",
+      "link": "https://www.youtube.com/embed/ul8q8rLN1AI?si=I8HlezZsTxMLV66Q"
+    },
+    {
+      "id": 6,
+      "image": "../ASSETS/images/Series/ranking/el marginal.jpg",
+      "titulo": "El Marginal (2016)",
+      "descripcion": "El Marginal es una serie argentina de drama carcelario creada por Sebastián Ortega. La trama sigue a un ex policía que se infiltra en una prisión para investigar el paradero de la hija de un juez. En medio de la violencia y la corrupción del sistema carcelario, se ve envuelto en una lucha por la supervivencia y la redención. Con un enfoque realista y una trama intensa, El Marginal ha sido aclamada por la crítica y el público, convirtiéndose en un éxito internacional.",
+      "link": "https://www.youtube.com/embed/mN7xQF3hO1M?si=pGB6xhXyjB_MAiQG"
+    },
+    {
+      "id": 7,
+      "image": "../ASSETS/images/Series/ranking/poliladron.jpg",
+      "titulo": "Poliladron(1995-1997)",
+      "descripcion": "Poliladron es una serie argentina creada por Juan José Campanella y Adrián Suar. La historia sigue a un grupo de policías corruptos en Buenos Aires que se dedican al robo de autos. Con un tono oscuro y humorístico, la serie ofrece una visión satírica de la corrupción policial y la delincuencia en la ciudad. Protagonizada por Juan Leyrado y Antonio Grimau, Poliladron fue un éxito de audiencia en su época y se convirtió en un ícono de la televisión argentina.",
+      "link": "https://www.youtube.com/embed/xXQJbhcsAyI?si=HF_EUa12VdvhrUn8"
+    },
+    {
+      "id": 8,
+      "image": "../ASSETS/images/Series/ranking/casi angeles.jpg",
+      "titulo": "Casi Ángeles(2007-2010)",
+      "descripcion": "Casi Ángeles es una serie argentina de drama y comedia musical creada por Cris Morena. La trama sigue las vidas de un grupo de adolescentes que viven en un hogar para niños huérfanos. Con elementos de fantasía, romance y música, la serie aborda temas como la amistad, el amor y la identidad en la adolescencia. Con un elenco talentoso que incluye a Emilia Attias y Nicolás Vázquez, Casi Ángeles fue un fenómeno cultural en Argentina y en otros países de habla hispana.",
+      "link": "https://www.youtube.com/embed/C33eJ8R5F7s?si=Ne7B_CkUu2rlIamN"
+    },
+    {
+      "id": 9,
+      "image": "../ASSETS/images/Series/ranking/chiquititas.jpg",
+      "titulo": "Chiquititas(1995-2001)",
+      "descripcion": "Chiquititas es una serie argentina creada por Cris Morena. La historia sigue las aventuras de un grupo de niños huérfanos que viven en un hogar dirigido por una mujer amorosa llamada La Señorita (interpretada por Romina Yan). Con canciones originales y tramas emotivas, la serie aborda temas como la amistad, la familia y la esperanza en un tono adecuado para el público infantil y juvenil. Chiquititas fue un gran éxito tanto en Argentina como internacionalmente, generando películas, álbumes musicales y giras teatrales.",
+      "link": "https://www.youtube.com/embed/wrp0aDclgwk?si=fYgtY7SrvS_kosTC"
+    },
+    {
+      "id": 10,
+      "image": "../ASSETS/images/Series/ranking/los siete locos y los lanzallamos.jpg",
+      "titulo": "Los Siete Locos y Los Lanzallamas(2015)",
+      "descripcion": "Los Siete Locos y Los Lanzallamas es una miniserie argentina basada en las novelas de Roberto Arlt. La historia sigue las intrigas y conspiraciones de un grupo de personajes en el Buenos Aires de principios del siglo XX, liderados por el enigmático Remo Erdosain. Con un estilo visual único y una trama compleja, la miniserie ofrece una visión fascinante de la sociedad argentina de la época y la mente humana. Protagonizada por Juan Leyrado y Luis Ziembrowski, Los Siete Locos y Los Lanzallamas es una adaptación fiel y cautivadora de la obra literaria de Arlt.",
+      "link": "https://www.youtube.com/embed/gk0xcsVtGls?si=-tFr-AEsFdifpH0W"
+    }
+  ],
+  "accion": [
+    {
+      "id": 1,
+      "image": "../ASSETS/images/Series/accion/historia de un clan.jpg",
+      "titulo": "Historia de un clan",
+      "descripcion": "Historia de un Clan es una serie argentina de acción basada en hechos reales que narra la vida del clan Puccio, una familia que se dedica al secuestro extorsivo en la década de 1980. Con un enfoque crudo y emocionante, la serie explora los límites de la moralidad y la lealtad familiar.",
+      "link": "https://www.youtube.com/embed/w-E9R-O36b0?si=7vTRAYhVvfxBY6O-"
+    },
+    {
+      "id": 2,
+      "image": "../ASSETS/images/Series/accion/barrabrava.jpg",
+      "titulo": "Barrabrava",
+      "descripcion": "Barrabrava es una serie argentina de acción que sigue la vida de un grupo de hinchas de fútbol violentos y las intrigas dentro del mundo de las barras bravas. Con un enfoque realista y escenas intensas, la serie ofrece una mirada profunda a la violencia y la pasión en el fútbol argentino.",
+      "link": "https://www.youtube.com/embed/yeUW6cW-FZA?si=FquD_bYUevr-4J8k"
+    },
+    {
+      "id": 3,
+      "image": "../ASSETS/images/Series/accion/botines.jpg",
+      "titulo": "Botines",
+      "descripcion": "Botines es una serie argentina de acción que narra las aventuras de un grupo de ladrones profesionales que se enfrentan a distintos desafíos en cada golpe. Con un enfoque dinámico y lleno de suspenso, la serie explora el mundo del crimen organizado con inteligencia y adrenalina.",
+      "link": "https://www.youtube.com/embed/W2JEgaa4QDE?si=bbtvNIl_Fd8S2RvS"
+    },
+    {
+      "id": 4,
+      "image": "../ASSETS/images/Series/accion/los unicos.jpg",
+      "titulo": "Los únicos",
+      "descripcion": "Los Únicos es una serie argentina de acción y comedia que sigue a un grupo de agentes especiales con habilidades únicas que deben enfrentarse a peligrosas misiones para salvar al mundo. Con un enfoque humorístico y lleno de acción, la serie ofrece una combinación perfecta de risas y adrenalina.",
+      "link": "https://www.youtube.com/embed/k-I9nggVxPI?si=Ht4ySutgr_goSk0X"
+    },
+    {
+      "id": 5,
+      "image": "../ASSETS/images/Series/accion/entre hombres.jpg",
+      "titulo": "Entre hombres",
+      "descripcion": "Entre Hombres es una serie argentina de acción que se desarrolla en los años 90 y sigue a un grupo de delincuentes, policías corruptos y políticos en una red de violencia y corrupción. Con un enfoque oscuro y realista, la serie ofrece una visión cruda de la sociedad y la justicia.",
+      "link": "https://www.youtube.com/embed/jPCzXhdIO9M?si=Pyu4ssHJiriX3Q14q"
+    },
+    {
+      "id": 6,
+      "image": "../ASSETS/images/Series/accion/balas perdidas.jpg",
+      "titulo": "Balas perdidas",
+      "descripcion": "Balas Perdidas es una serie argentina de acción que sigue la vida de un grupo de policías y delincuentes cuyas vidas se entrelazan en un juego mortal de gato y ratón. Con un enfoque tenso y lleno de acción, la serie explora los límites de la ley y el caos.",
+      "link": "https://www.youtube.com/embed/QhTxxuGYFtM?si=1N7QgnmAvx5vimi"
+    },
+    {
+      "id": 7,
+      "image": "../ASSETS/images/Series/accion/el marginal.jpg",
+      "titulo": "El Marginal",
+      "descripcion": "El Marginal es una serie argentina de acción que sigue la vida dentro de una peligrosa prisión, donde un ex-policía debe infiltrarse para resolver un caso de secuestro. Con un enfoque oscuro y realista, la serie ofrece una mirada cruda al sistema penitenciario y la lucha por la supervivencia.",
+      "link": "https://www.youtube.com/embed/mN7xQF3hO1M?si=pGB6xhXyjB_MAiQG"
+    },
+    {
+      "id": 8,
+      "image": "../ASSETS/images/Series/accion/nafta super.jpg",
+      "titulo": "Nafta super",
+      "descripcion": "Nafta Súper es una serie argentina de acción que mezcla comedia y ciencia ficción. La trama sigue a un grupo de héroes atípicos en un mundo post-apocalíptico lleno de aventuras y peligros. Con un estilo visual único y un tono humorístico, la serie ofrece una experiencia de entretenimiento vibrante.",
+      "link": "https://www.youtube.com/embed/AeUZyDIzSLY?si=6oQGP2aoAr86Lk40"
+    },
+    {
+      "id": 9,
+      "image": "../ASSETS/images/Series/accion/el legado.jpg",
+      "titulo": "El legado",
+      "descripcion": "El Legado es una serie argentina de acción que sigue a un hombre en busca de justicia tras la muerte de su familia en un acto violento. La trama está llena de emociones intensas, escenas de acción y una búsqueda incansable de venganza y redención.",
+      "link": "https://www.youtube.com/embed/07hEzQUY73U?si=BWCCXhwhL-x3T5JZ"
+    },
+    {
+      "id": 10,
+      "image": "../ASSETS/images/Series/accion/epitafios.jpg",
+      "titulo": "Epitafios",
+      "descripcion": "Epitafios es una serie argentina de acción y suspenso que sigue a dos detectives que intentan capturar a un asesino en serie. La serie combina elementos de misterio, thriller y drama, ofreciendo una trama llena de giros y tensión.",
+      "link": "https://www.youtube.com/embed/XR_ahzazKYU?si=tYLEJGDrVv6mxRT0"
+    }
+  ],
+
+  "comedia": [
+    {
+      "id": 1,
+      "image": "../ASSETS/images/Series/comedia/el encargado.jpg",
+      "titulo": "El encargado",
+      "descripcion": "El encargado es una serie argentina de comedia que narra las hilarantes situaciones de un conserje en un edificio de departamentos lleno de personajes peculiares y conflictos cotidianos. Con un humor ácido y situaciones disparatadas, esta serie ofrece un vistazo humorístico a la vida urbana.",
+      "link": "https://www.youtube.com/embed/xCOLq6VAS9Y?si=NvriTtg8UeANMfXK"
+    },
+    {
+      "id": 2,
+      "image": "../ASSETS/images/Series/comedia/nada.jpg",
+      "titulo": "Nada",
+      "descripcion": "Nada es una serie argentina de comedia que sigue las desventuras de un grupo de amigos que, ante la falta de recursos y oportunidades, deciden lanzarse a una serie de planes disparatados para encontrar el éxito y la felicidad en la vida. Con un humor absurdo y un estilo único, Nada es una comedia que desafía las convenciones.",
+      "link": "https://www.youtube.com/embed/T5zFRlxUPmc?si=qRUbvkTEc0853CBB"
+    },
+    {
+      "id": 3,
+      "image": "../ASSETS/images/Series/comedia/division palermo.jpg",
+      "titulo": "División palermo",
+      "descripcion": "División Palermo es una serie argentina de comedia que sigue las hilarantes aventuras y desventuras de un grupo de detectives novatos en el barrio de Palermo, Buenos Aires. Con un humor fresco y situaciones disparatadas, esta serie ofrece una mirada divertida al mundo de la investigación policial.",
+      "link": "https://www.youtube.com/embed/Ozz-5rWXoI0?si=_7CnJUd48LWXJxOc"
+    },
+    {
+      "id": 4,
+      "image": "../ASSETS/images/Series/comedia/terapia alternativa.jpg",
+      "titulo": "Terapia alternativa",
+      "descripcion": "Terapia Alternativa es una serie argentina de comedia que gira en torno a un grupo de personas muy diferentes que se reúnen en un inusual grupo de terapia. Con un humor inteligente y diálogos ingeniosos, la serie explora temas profundos mientras hace reír a carcajadas.",
+      "link": "https://www.youtube.com/embed/Z2gg5dOXpRQ?si=AIn4icWiIDfBgO-t"
+    },
+    {
+      "id": 5,
+      "image": "../ASSETS/images/Series/comedia/robo mundial.jpg",
+      "titulo": "Robo mundial",
+      "descripcion": "Robo Mundial es una serie argentina de comedia que sigue las desventuras de un grupo de inexpertos ladrones que planean el robo más audaz de la historia. Con un humor irreverente y situaciones absurdas, esta serie ofrece una mirada hilarante al mundo del crimen.",
+      "link": "https://www.youtube.com/embed/cOGtNoAvkaU?si=0IrLbsxT1H3oUB44"
+    },
+    {
+      "id": 6,
+      "image": "../ASSETS/images/Series/comedia/casi feliz.jpg",
+      "titulo": "Casi feliz",
+      "descripcion": "Casi Feliz es una serie argentina de comedia que sigue la vida de un comediante en crisis que intenta equilibrar su carrera, su vida amorosa y su familia disfuncional. Con un humor sarcástico y momentos conmovedores, esta serie ofrece una mirada honesta y divertida a las luchas de la vida adulta.",
+      "link": "https://www.youtube.com/embed/t6jZxkDe3Uw?si=1F8itczd3IZWroFk"
+    },
+    {
+      "id": 7,
+      "image": "../ASSETS/images/Series/comedia/los protectores.jpg",
+      "titulo": "Los protectores",
+      "descripcion": "Los Protectores es una serie argentina de comedia que sigue las hilarantes desventuras de un grupo de agentes de seguridad poco convencionales que se enfrentan a situaciones absurdas en su día a día. Con un humor irreverente y personajes excéntricos, esta serie ofrece una mirada cómica a la seguridad urbana.",
+      "link": "https://www.youtube.com/embed/PJS4lkSHI1E?si=0XO73khs0ukjchBV"
+    },
+    {
+      "id": 8,
+      "image": "../ASSETS/images/Series/comedia/casados con hijos.jpg",
+      "titulo": "Casados con hijos",
+      "descripcion": "Casados con Hijos es una serie argentina de comedia que sigue las aventuras de una familia disfuncional en el barrio de Flores, Buenos Aires. Con un humor ácido y situaciones disparatadas, la serie ofrece una mirada divertida a las relaciones familiares y los conflictos cotidianos.",
+      "link": "https://www.youtube.com/embed/5q-uvgu3YqY?si=qPDJtcRyZkQsxsKA"
+    },
+    {
+      "id": 9,
+      "image": "../ASSETS/images/Series/comedia/Graduados.jpg",
+      "titulo": "Graduados",
+      "descripcion": "Graduados es una serie argentina de comedia que sigue las vidas entrelazadas de un grupo de exalumnos que se reencuentran años después de su graduación. Con un humor nostálgico y situaciones cómicas, la serie ofrece una mirada divertida a las relaciones del pasado y del presente.",
+      "link": "https://www.youtube.com/embed/bD5h3oI5p7s?si=1OqGh0BPfRQXimLe"
+    },
+    {
+      "id": 10,
+      "image": "../ASSETS/images/Series/comedia/Rebelde way.jpg",
+      "titulo": "Rebelde way",
+      "descripcion": "Rebelde Way es una serie argentina de comedia que sigue las vidas de un grupo de estudiantes rebeldes en el prestigioso colegio Elite Way School. Con un humor juvenil y situaciones disparatadas, la serie ofrece una mirada divertida a la adolescencia y las relaciones entre jóvenes.",
+      "link": "https://www.youtube.com/embed/_Rzvjs2vhcI?si=21BDUG9IuiBq6dtw"
+    }
+  ],
+  "romanticas": [
+    {
+      "id": 1,
+      "image": "../ASSETS/images/Series/romance/floricienta.jpg",
+      "titulo": "Floricienta",
+      "descripcion": "Floricienta es una serie romántica argentina que narra la historia de una joven huérfana que, tras ser acogida por una familia adinerada, se enamora del hijo menor. Con un toque de magia y música, esta serie ofrece una historia de amor llena de aventuras y desafíos.",
+      "link": "https://www.youtube.com/embed/nv3ptkARCwc?si=aeJt6zPEYqP7kWW1"
+    },
+    {
+      "id": 2,
+      "image": "../ASSETS/images/Series/romance/el amor despues del amor.jpg",
+      "titulo": "El amor despues del amor",
+      "descripcion": "El Amor Después del Amor es una serie romántica argentina que sigue la historia de dos personas que, tras enfrentar tragedias y desafíos, encuentran el amor y la redención. Con un enfoque emotivo y conmovedor, esta serie ofrece una mirada agridulce a las segundas oportunidades en el amor.",
+      "link": "https://www.youtube.com/embed/xUlJZ7AMaro?si=bOcbw63VJ8WRE7g-"
+    },
+    {
+      "id": 3,
+      "image": "../ASSETS/images/Series/romance/el fin del amor.jpg",
+      "titulo": "El fin del amor",
+      "descripcion": "El Fin del Amor es una serie romántica argentina que explora las complejidades del amor en todas sus formas, desde la pasión desenfrenada hasta el doloroso desamor. Con un enfoque realista y diálogos profundos, esta serie ofrece una mirada honesta a las relaciones humanas.",
+      "link": "https://www.youtube.com/embed/8qlKJ3QVLIM?si=RhgROglwcCPmDkni"
+    },
+    {
+      "id": 4,
+      "image": "../ASSETS/images/Series/romance/sandro de america.jpg",
+      "titulo": "Sandro de América",
+      "descripcion": "Sandro de América es una serie romántica argentina que narra la vida del icónico cantante y su ascenso al estrellato, así como sus romances y desafíos personales. Con un enfoque biográfico y momentos musicales, esta serie ofrece una mirada íntima a la vida y la carrera de Sandro.",
+      "link": "https://www.youtube.com/embed/gSxoZ-Uo2pU?si=SIO9lwkqzLMHUKzp"
+    },
+    {
+      "id": 5,
+      "image": "../ASSETS/images/Series/romance/esperanza mia.jpg",
+      "titulo": "Esperanza mía",
+      "descripcion": "Esperanza Mía es una serie romántica argentina que sigue la historia de amor entre una novicia y un sacerdote, desafiando las convenciones sociales y religiosas. Con un toque de comedia y música, esta serie ofrece una mirada única al amor y la fe.",
+      "link": "https://www.youtube.com/embed/m2RZayEBNEQ?si=GA5fJ4zRuo7WGkhGq"
+    },
+    {
+      "id": 6,
+      "image": "../ASSETS/images/Series/romance/las estrellas.jpg",
+      "titulo": "Las estrellas",
+      "descripcion": "Las Estrellas es una serie romántica argentina que sigue la historia de tres hermanas que, tras la muerte de su padre, se reencuentran y enfrentan sus propios conflictos personales y románticos. Con un enfoque emotivo y momentos de humor, esta serie ofrece una mirada conmovedora a los lazos familiares y el amor.",
+      "link": "https://www.youtube.com/embed/UyCFK-bJ_EE?si=2j5QZEICDggDYBlI"
+    },
+    {
+      "id": 7,
+      "image": "../ASSETS/images/Series/romance/amor binario.jpg",
+      "titulo": "Amor binario",
+      "descripcion": "Amor Binario es una serie romántica argentina que explora las relaciones amorosas en la era digital, desde los encuentros en línea hasta los desafíos de la intimidad en un mundo conectado. Con un enfoque contemporáneo y diálogos ingeniosos, esta serie ofrece una mirada divertida y reflexiva al amor en la era digital.",
+      "link": "https://www.youtube.com/embed/tgsom19N9XM?si=7v9w67PvOwcWMJH9"
+    },
+    {
+      "id": 8,
+      "image": "../ASSETS/images/Series/romance/amor mio.jpg",
+      "titulo": "Amor mío",
+      "descripcion": "Amor Mío es una serie romántica argentina que sigue las peripecias de dos vecinos opuestos que comparten un pasillo y, a pesar de sus diferencias, se enamoran. Con un humor ligero y situaciones cómicas, esta serie ofrece una mirada divertida al amor y la convivencia.",
+      "link": "https://www.youtube.com/embed/wrF2Kf3_ofI?si=qrRuNsJ3NliugMQ2"
+    },
+    {
+      "id": 9,
+      "image": "../ASSETS/images/Series/romance/morir de amor.jpg",
+      "titulo": "Morir de amor",
+      "descripcion": "Morir de Amor es una serie romántica argentina que sigue la historia de una mujer que, tras perder al amor de su vida, se sumerge en un viaje de autodescubrimiento y redención. Con un enfoque introspectivo y emocional, esta serie ofrece una mirada conmovedora al duelo y la esperanza.",
+      "link": "https://www.youtube.com/embed/0z5MSskdxis?si=az7o3WXS_jY-1zWI"
+    },
+    {
+      "id": 10,
+      "image": "../ASSETS/images/Series/romance/dulce amor.jpg",
+      "titulo": "Dulce amor",
+      "descripcion": "Dulce Amor es una serie romántica argentina que narra la historia de dos personas de mundos opuestos que se enamoran, enfrentando la oposición de sus familias y los desafíos del destino. Con un toque de drama y pasión, esta serie ofrece una historia de amor épica y emocionante.",
+      "link": "https://www.youtube.com/embed/wPirJWZY3_s?si=E40cDztY1YOHF1tQ"
+    }
+  ]
+}

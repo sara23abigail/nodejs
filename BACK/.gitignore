@@ -1,0 +1,47 @@
+# Dependencias de Node
+node_modules/
+# Archivos de registro
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+# Directorios de construcción
+dist/
+build/
+# Archivos de entorno
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+# Directorios de cobertura de pruebas
+coverage/
+# Archivos de lock para paquetes
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+# Cache de ESLint
+.eslintcache
+# Cache de TypeScript
+*.tsbuildinfo
+# Cache de IDEs y editores
+.vscode/
+.idea/
+.DS_Store
+# Archivos y carpetas específicos de frameworks
+.vscode/
+.angular/
+.vscode/
+# Archivos de configuración específicos del sistema operativo
+*.swp
+*.swo
+*.swn
+# Archivos de servicio
+.git/
+.svn/
+.hg/
+# Archivos de distribución
+*.tgz
+*.zip
+*.tar
+*.tar.gz

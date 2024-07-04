@@ -1,0 +1,224 @@
+/*
+* Hamburgers
+* @description Tasty CSS-animated hamburgers
+* @author Jonathan Suh @jonsuh
+* @site https://jonsuh.com/hamburgers
+* @link https://github.com/jonsuh/hamburgers
+*/
+/*
+.hamburger {
+  padding: 15px 15px;
+  display: inline-block;
+  cursor: pointer;
+  transition-property: opacity, filter;
+  transition-duration: 0.15s;
+  transition-timing-function: linear;
+  font: inherit;
+  color: inherit;
+  text-transform: none;
+  background-color: transparent;
+  border: 0;
+  margin: 0;
+  overflow: visible;
+}
+.hamburger:hover {
+  opacity: 0.7;
+}
+.hamburger.is-active:hover {
+  opacity: 0.7;
+}
+.hamburger.is-active .hamburger-inner,
+.hamburger.is-active .hamburger-inner::before,
+.hamburger.is-active .hamburger-inner::after {
+  background-color: var(--color-optativo-de-fondo);
+}
+
+.hamburger-box {
+  width: 40px;
+  height: 24px;
+  display: inline-block;
+  position: relative;
+}
+
+.hamburger-inner {
+  display: block;
+  top: 50%;
+  margin-top: -2px;
+}
+.hamburger-inner,
+.hamburger-inner::before,
+.hamburger-inner::after {
+  width: 40px;
+  height: 4px;
+  background-color: var(--color-optativo-de-fondo);
+  border-radius: 4px;
+  position: absolute;
+  transition-property: transform;
+  transition-duration: 0.15s;
+  transition-timing-function: ease;
+}
+.hamburger-inner::before,
+.hamburger-inner::after {
+  content: "";
+  display: block;
+}
+.hamburger-inner::before {
+  top: -10px;
+}
+.hamburger-inner::after {
+  bottom: -10px;
+}
+*/
+/*
+* Spin
+*/
+/*
+.hamburger--spin .hamburger-inner {
+  transition-duration: 0.22s;
+  transition-timing-function: cubic-bezier(0.55, 0.055, 0.675, 0.19);
+}
+.hamburger--spin .hamburger-inner::before {
+  transition: top 0.1s 0.25s ease-in, opacity 0.1s ease-in;
+}
+.hamburger--spin .hamburger-inner::after {
+  transition: bottom 0.1s 0.25s ease-in,
+    transform 0.22s cubic-bezier(0.55, 0.055, 0.675, 0.19);
+}
+
+.hamburger--spin.is-active .hamburger-inner {
+  transform: rotate(225deg);
+  transition-delay: 0.12s;
+  transition-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1);
+}
+.hamburger--spin.is-active .hamburger-inner::before {
+  top: 0;
+  opacity: 0;
+  transition: top 0.1s ease-out, opacity 0.1s 0.12s ease-out;
+}
+.hamburger--spin.is-active .hamburger-inner::after {
+  bottom: 0;
+  transform: rotate(-90deg);
+  transition: bottom 0.1s ease-out,
+    transform 0.22s 0.12s cubic-bezier(0.215, 0.61, 0.355, 1);
+}
+
+*/
+
+aside{
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  height: 100vh;
+  z-index: 10;
+  width: max-content;
+}
+
+aside nav{
+  height: 100%;
+  width: max-content;
+}
+
+aside nav ul{
+  height: 100%;
+  width: max-content;
+}
+
+#menu{
+  position: fixed;
+  bottom: 0rem;
+  width: 100vw;
+  height: 4rem;
+  display: flex;
+  flex-direction: row;
+  justify-content:center;
+  align-items: center;
+  li{
+    width: calc(100vw / 5);
+    height: 100%;
+    a{
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      padding: 1rem;
+    }
+    &:hover{
+      background-color: var(--color-principal-de-fondo-hover);
+    }
+    &:active{
+      background-color: var(--color-principal-de-fondo-hover);
+    }
+  }
+}
+
+.svg_menu{
+  width: auto;
+  height: 2rem;
+  padding: 0.1rem 0rem;
+}
+
+@media screen and (min-width: 576px) and (max-width: 991px) {
+  #menu{
+    height: 80vh;
+    width: 8vw;
+    right: 0;
+    top:calc(100vw / 10 + 0.5rem);
+    bottom: 0;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    li{
+      height: calc(100vh / 8);
+      width: calc(100vw / 5);
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      a{
+        padding: 0 1rem 0 0;
+        height: 100%;
+      }
+    }
+  }
+
+  .svg_menu{
+    width: 8vw;
+    height: auto;
+    padding: 0.1rem 0.5rem;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  aside nav{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    ul{
+      height: 100%;
+    }
+  }
+  #menu{
+    height: 100%;
+    max-height: 800px;
+    width: 8vw;
+    left: 0;
+    padding-top: 5rem;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+    li{
+      height: auto;
+      width: 100%;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      a{
+        padding: 0.5rem;
+        height: 100%;
+        img{
+          height: 8vh;
+          width: auto;
+        }
+      }
+    }
+  }
+}

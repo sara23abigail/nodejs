@@ -1,0 +1,14 @@
+@import url(../a_variables.css);
+@import url(../b_resets.css);
+@import url(../c_hamburguer_menu.css);
+@import url(../e_main.css);
+@import url(../e_seccion0_loading.css);
+@import url(../e_seccion1_logo.css);
+@import url(../contacto/e_seccion2_formulario_login.css);
+@import url(../f_footer.css);
+@import url(../k_nodisplay.css);
+
+/*
+*****  Abrir terminal bash: asegurarse que se está en la carpeta CSS/contacto asi se mantienen las mismas rutas *****
+cat ../a_variables.css ../b_resets.css ../c_hamburguer_menu.css ../e_main.css ../e_seccion0_loading.css ../e_seccion1_logo.css ../contacto/e_seccion2_formulario_login.css ../f_footer.css ../k_nodisplay.css > styles.css
+*/

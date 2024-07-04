@@ -1,0 +1,24 @@
+/*******************/
+/*    Variables    */
+/*******************/
+
+:root {
+
+  /* Fuentes*/
+  @import url('https://fonts.googleapis.com/css2?family=Mali:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+
+  --font-size: 16px;/* var(--font-size) */
+
+  /*Colores*/
+
+  --color-principal-de-fondo: rgba(51,51,51,1); /* var(--color-principal-de-fondo) */
+  --color-principal-de-fondo-hover: rgba(100,100,100,1); /* var(--color-principal-de-fondo-hover) */
+  --color-link: rgba(123, 104, 238,1); /* var(--color-link) */
+  --color-white: rgba(255, 255, 255, 1);/* var(--color-white) */
+  --color-naranja-logo: rgba(255, 99, 71, 1);/* var(--color-naranja-logo) */
+  --color-naranja-logo-dark: rgba(113, 23, 2, 1);/* var(--color-naranja-logo-dark) */
+  --color-naranja-logo-form: rgba(251, 203, 194,1);/* var(--color-naranja-logo-form) */
+  --color-naranja-logo-hover: rgba(252, 171, 157,1);/* var(--color-naranja-logo-hover) */
+  --color-modal_fondo: rgba(0, 0, 0, 0.6);/* var(--color-modal_fondo) */
+}
+

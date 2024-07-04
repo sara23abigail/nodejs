@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Veo veo: Películas</title>
+    <!--link rel="stylesheet" href="../CSS/peliculas/styles_desarrollo.css"-->
+    <link rel="stylesheet" href="../CSS/peliculas/styles.css">
+    <!--link rel="stylesheet" href="CSS/index/estilos.css"-->
+    <link rel="icon" type="image/x-icon" href="ASSETS/favicon/clapperboard.png">
+        <!--Metaetiquetas-->
+        <link rel="canonical" href="https://grupo-24.netlify.app/" />
+        <!--colocar direccion real cuando se haga el despliegue---->
+        <meta property="og:title" content="Veo Veo" />
+        <meta property="og:description" content="Veo Veo: Pagina web pensada para reproducir películas por stream."/>
+        <meta property="og:image" content="../ASSETS/images/logo_veo_veo.png"/>
+        <meta property="og:image:width" content="1200">
+        <meta property="og:image:height" content="630">
+        <meta property="og:url" content="https://grupo-24.netlify.app/" />
+  </head>
+  <body>
+    <header>
+        <h1 id="home" class="noDisplay">Veo veo</h1>
+    </header>
+    <main id="main-peliculas" style="grid-auto-rows: repeat(2, 40vh);">
+      <section id="logo"><img src="../ASSETS/images/logo_veo_veo.png" alt="logo veo veo"></section>
+      <!--*****************************-->
+      <!--section  "loading  "-->
+      <!--*****************************-->
+      <section id="loading" class="noDisplay">Cargando <span id="cargando1">.</span><span id="cargando2">.</span><span id="cargando3">.</span></section>
+      <!--*****************************-->
+      <!--       section "películas"-->
+      <!--*****************************-->
+      <section id="background-video" class="noDisplay">
+      </section>
+      <section id="background-image" class="noDisplay">
+        <article id="background-image-img"><img src="../ASSETS/images/Peliculas/Ranking/el_secreto_de_sus_ojos.jpg" alt="El secreto de sus ojos"></article>
+        <article id="background-image-description"> <h3>"El secreto de sus ojos"</h3> <p>El secreto de sus ojos es una aclamada película argentina dirigida por Juan José Campanella. La historia sigue a Benjamín Espósito, un oficial de justicia retirado, que reabre un caso de violación y asesinato de los años 70 para escribir una novela. Mientras busca la verdad, se enfrenta a viejos amores y obsesiones. Con una notable actuación de Ricardo Darín y un guion intrigante, esta obra maestra ganó el Óscar a la Mejor Película Extranjera en 2010.</p>  </article>
+        <article id="ver-pelicula">
+        Ver Trailer
+        </article>
+      </section>
+      <section id="banner" class="noDisplay">
+          <article>
+              <h2>Las 10 mejores peliculas de Argentina</h2>
+          </article>
+          <article id="banner-article">
+            <div class="container" id="container">
+            </div>
+          </article>
+      </section>
+    </main>
+    <aside>
+        <nav>
+        <ul id="menu">
+          <li><a href="../index.html" title="home"><img class="svg_menu" src="../ASSETS/svg/home.svg" alt="home"></a></li>
+          <li><a href="../pages/peliculas.html" title="Películas"><img class="svg_menu" src="../ASSETS/svg/peliculas.svg" alt="Peliculas"></a></li>
+          <li><a href="../pages/series.html" title="Series de TV"><img class="svg_menu" src="../ASSETS/svg/series-TV.svg" alt="Series de TV"></a></li>
+          <li><a href="../pages/contacto.html" title="Contacto"><img class="svg_menu" src="../ASSETS/svg/contacto_preguntas.svg" alt="Contacto, consultas"></a></li>
+          <li><a href="../pages/grupo_24.html" title="Grupo 24"><img class="svg_menu" src="../ASSETS/svg/grupo_24.svg" alt="Grupo 24"></a></li>
+        </ul>
+      </nav>
+    </aside>
+    <footer>
+      <div>Hecho por <a id="g24" href="../pages/grupo_24.html" target="_blank" rel="noopener noreferrer"> Grupo 24</a>. Todos los derechos Resevados</div>
+      <div>
+        <img class="img-footer" src="../ASSETS/images/Buenos_Aires_Ciudad2.png" alt="Buenos_Aires_Ciudad">
+        <img class="img-footer" src="../ASSETS/images/Agencia_de_aprendizaje.png" alt="Agencia_de_aprendizaje">
+        <img class="img-footer" src="../ASSETS/images/logo_codo_a_codo.png" alt="logo_codo_a_codo">
+        <img class="img-footer" src="../ASSETS/svg/nodejs.svg" alt="logo_node_JS">
+        <img class="img-footer" src="../ASSETS/svg/javascript.svg" alt="logo_javascript">
+      </div>
+    </footer>
+<script src="../JS/peliculasJS.js" type="module"></script>
+  </body>
+</html>

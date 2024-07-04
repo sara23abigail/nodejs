@@ -1,0 +1,136 @@
+/**********************/
+/*** Felicitaciones ***/
+/**********************/
+
+#felicitaciones{
+  width: 100vw;
+  height: 70vh;
+  z-index: 99;
+  position: relative;
+  padding-left: 10vw;
+  article{
+    position: absolute;
+    width: auto;
+    max-width: 300px;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+    color: var(--color-white);
+  }
+}
+
+#fondo-felicitaciones{
+  img{
+    width: auto;
+    height: 100%;
+  }
+  height: 100%;
+  width: 100%;
+  z-index: 0;
+  padding: 1rem;
+}
+
+#fel-1{
+  background-color: var(--color-naranja-logo);
+  width: 40vw;
+  max-width: 200px;
+  padding: 0.5rem;
+  border-radius: 1rem 1rem 0rem 0rem;
+  text-align: center;
+  font-size: 0.6rem;
+  font-weight: 700;
+  margin-left: 20vw;
+  margin-top: 8rem;
+}
+
+#fel-2{
+  background-color: var(--color-principal-de-fondo-hover);
+  width: 40vw;
+  max-width: 200px;
+  padding: 1rem 0.5rem 0rem 0.5rem;
+  font-size: 0.4rem;
+  margin-left: 20vw;
+}
+
+#fel-3{
+  background-color: var(--color-principal-de-fondo-hover);
+  width: 40vw;
+  max-width: 200px;
+  padding: 0.5rem 0.5rem 1rem 0.5rem;
+  border-radius: 0rem 0rem 1rem 1rem;
+  font-size: 0.4rem;
+  margin-left: 20vw;
+}
+
+@media screen and (min-width: 576px) and (max-width: 991px) {
+  #felicitaciones{
+    width: 100%;
+    article{
+      padding-top: calc(30vh);
+      margin-left: 15vw;
+      display: flex;
+      flex-direction: column;
+      justify-content:center;
+      align-items: center;
+    }
+  }
+  #fel-1{
+    width: 35vw;
+    max-width: 220px;
+    font-size: 0.8rem;
+    margin-left: 6vw;
+  }
+  
+  #fel-2{
+    width: 35vw;
+    max-width: 220px;
+    font-size: 0.6rem;
+    margin-left: 6vw;
+  }
+  
+  #fel-3{
+    width: 35vw;
+    max-width: 220px;
+    font-size: 0.6rem;
+    margin-left: 6vw;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  #felicitaciones{
+    height: 80vh;
+    width: 100vw;
+    right: 0;
+    left: 0;
+    padding-left: 15vw;
+    article{
+      padding-top: calc(30vh);
+      margin-left: 20vw;
+      display: flex;
+      flex-direction: column;
+      justify-content:center;
+      align-items: center;
+    }
+  }
+
+  #fel-1{
+    width: 25vw;
+    font-size: 0.8rem;
+    margin-left: 5vw;
+    margin-top: 8rem;
+  }
+  
+  #fel-2{
+    width: 25vw;
+    font-size: 0.6rem;
+    margin-left: 5vw;
+  }
+  
+  #fel-3{
+    width: 25vw;
+    font-size: 0.6rem;
+    margin-left: 5vw;
+  }
+}
